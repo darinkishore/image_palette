@@ -5,7 +5,7 @@ Image_palette creates palettes of images for creative visual inspiration.
 The only currently supported palette generation style is monochromatic, but there will be more to come!
 
 ### Demo 
-![](name-of-giphy.gif)
+![](thegif.gif)
 https://www.youtube.com/watch?v=8Xb56A7Hxik
 
 ## Monochromatic Palette Generation

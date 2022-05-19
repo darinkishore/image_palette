@@ -12,6 +12,6 @@ Finds the dominant color for every image, and then displays images with differen
 
 The primary dataset, already indexed, is Flickr8k from Kaggle: https://www.kaggle.com/datasets/adityajn105/flickr8k . 
 
-This is meant to be downloaded and dropped into archive/Images, a directory you have to create.
+Create an archive/Images folder. Drop Flicker8k into the Images folder. 
 
 After setting up the directory, simply run gui.py and you're off to the races!
